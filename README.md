@@ -38,7 +38,7 @@ npm install
 ```
 ### 1.3 Lancer le backend
 ```bash
-npm start
+node index.js
 ```
 ### Ouvrir un autre terminal pour le frontend
 ### 1.4 Installer le frontend
@@ -48,5 +48,5 @@ npm install
 ```
 ### 1.5 Lancer l'application React
 ```bash
-npm start
+node index.js
 ```
