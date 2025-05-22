@@ -48,5 +48,5 @@ npm install
 ```
 ### 1.5 Lancer l'application React
 ```bash
-node index.js
+npm start
 ```
